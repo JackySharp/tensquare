@@ -1,0 +1,32 @@
+server:
+  #设置微服务端口
+  port: 9001
+spring:
+  #定义微服务的名称
+  application:
+    name: tensquare-base
+  #配置数据源
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.25.130:3306/tensquare_base?characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: 123
+  #配置 Java Persistence API
+  jpa:
+    #设置依据数据库数据自动生成pojo类
+    generate-ddl: true
+    #设置打开sql日志
+    show-sql: true
+    #设置访问的数据库的方言
+    database: mysql
+  rabbitmq: 
+    host: 192.168.25.130
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka/
+ip: 
+  192.168.7.22
+

@@ -1,0 +1,22 @@
+server:
+  #设置微服务端口
+  port: 9006
+spring:
+  #定义微服务的名称
+  application:
+    name: tensquare-spit
+  #定义Redis数据库主机IP地址
+  redis:
+    host: 192.168.25.130
+  data:
+    mongodb:
+      #定义MongoDB数据库主机IP地址
+      host: 192.168.25.130
+      #定义连接的数据库
+      database: spitdb
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka

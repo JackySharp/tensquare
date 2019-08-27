@@ -1,0 +1,23 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: tensquare-gateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka
+  instance:
+    prefer-ip-address: true
+zuul:
+  routes:
+    tensquare-base:
+      path: /base/**    #代表通过网关访问的微服务的路径映射
+      serverId: tensquare-base  #在 eureka server 注册的微服务的名称
+      #例如：http://localhost:9010/base/label/{labelId}代表访问 tensquare-base 的查询标签服务
+    tensquare-qa:
+      path: /qa/**
+      serverId: tensquare-qa
+    tensquare-user:
+      path: /user/**
+      serverId: tensquare-user

@@ -1,0 +1,12 @@
+com\tensquare\friend\config\WebSecurityConfig.class
+com\tensquare\friend\controller\FriendController.class
+com\tensquare\friend\dao\NoFriendDao.class
+com\tensquare\friend\config\JwtInterceptorConfig.class
+com\tensquare\friend\service\FriendService.class
+com\tensquare\friend\pojo\NoFriend.class
+com\tensquare\friend\dao\FriendDao.class
+com\tensquare\friend\pojo\Friend.class
+com\tensquare\friend\service\NoFriendService.class
+com\tensquare\friend\client\UserFeignClient.class
+com\tensquare\friend\interceptor\JwtInterceptor.class
+com\tensquare\friend\FriendApplication.class

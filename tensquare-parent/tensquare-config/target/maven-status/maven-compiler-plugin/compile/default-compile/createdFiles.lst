@@ -1,0 +1,2 @@
+com\tensquare\config\ConfigApplication.class
+com\tensquare\config\task\SyncConfigTask.class

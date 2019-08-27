@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: tensquare_user  #指配置文件中-号前面的部分
+      profile: develop  #指配置文件中-号后面的部分
+      label: master  #指gitee（码云）上的主分支的名字
+      uri: http://localhost:12000  #spring-cloud-config服务器的ip地址

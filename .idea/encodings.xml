@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MangoDBDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQListenerDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitMQProducerDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/dbsync" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/deployer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/driver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/instance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/instance/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/instance/manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/instance/spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/meta" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/parse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/protocol" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/sink" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/canal-canal-1.0.24/store" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-friend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-gathering" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-qa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-recruit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-spit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tensquare-parent/tensquare-web" charset="UTF-8" />
+  </component>
+</project>

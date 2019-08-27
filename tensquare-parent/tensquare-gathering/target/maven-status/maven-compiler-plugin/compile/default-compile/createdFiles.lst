@@ -1,0 +1,5 @@
+com\tensquare\gathering\controller\gatheringController.class
+com\tensquare\gathering\pojo\Gathering.class
+com\tensquare\gathering\GatheringApplication.class
+com\tensquare\gathering\service\GatheringService.class
+com\tensquare\gathering\dao\GatheringDao.class
